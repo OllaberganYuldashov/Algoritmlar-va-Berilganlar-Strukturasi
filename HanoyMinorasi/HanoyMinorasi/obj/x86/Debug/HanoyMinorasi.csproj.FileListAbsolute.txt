@@ -1,0 +1,4 @@
+c:\users\allabergan\documents\visual studio 2010\Projects\HanoyMinorasi\HanoyMinorasi\bin\Debug\HanoyMinorasi.exe
+c:\users\allabergan\documents\visual studio 2010\Projects\HanoyMinorasi\HanoyMinorasi\bin\Debug\HanoyMinorasi.pdb
+c:\users\allabergan\documents\visual studio 2010\Projects\HanoyMinorasi\HanoyMinorasi\obj\x86\Debug\HanoyMinorasi.exe
+c:\users\allabergan\documents\visual studio 2010\Projects\HanoyMinorasi\HanoyMinorasi\obj\x86\Debug\HanoyMinorasi.pdb
