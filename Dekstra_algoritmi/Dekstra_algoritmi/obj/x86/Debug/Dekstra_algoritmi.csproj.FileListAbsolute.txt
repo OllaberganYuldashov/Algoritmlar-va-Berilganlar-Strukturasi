@@ -1,0 +1,5 @@
+C:\Users\allabergan\documents\visual studio 2010\Projects\Dekstra_algoritmi\Dekstra_algoritmi\bin\Debug\Dekstra_algoritmi.exe
+C:\Users\allabergan\documents\visual studio 2010\Projects\Dekstra_algoritmi\Dekstra_algoritmi\bin\Debug\Dekstra_algoritmi.pdb
+C:\Users\allabergan\documents\visual studio 2010\Projects\Dekstra_algoritmi\Dekstra_algoritmi\obj\x86\Debug\Dekstra_algoritmi.exe
+C:\Users\allabergan\documents\visual studio 2010\Projects\Dekstra_algoritmi\Dekstra_algoritmi\obj\x86\Debug\Dekstra_algoritmi.pdb
+C:\Users\allabergan\documents\visual studio 2010\Projects\Dekstra_algoritmi\Dekstra_algoritmi\obj\x86\Debug\Dekstra_algoritmi.csprojResolveAssemblyReference.cache
