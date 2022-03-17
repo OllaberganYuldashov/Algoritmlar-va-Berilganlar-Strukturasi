@@ -1,0 +1,4 @@
+c:\users\allabergan\documents\visual studio 2010\Projects\Graf_DFS\Graf_DFS\bin\Debug\Graf_DFS.exe
+c:\users\allabergan\documents\visual studio 2010\Projects\Graf_DFS\Graf_DFS\bin\Debug\Graf_DFS.pdb
+c:\users\allabergan\documents\visual studio 2010\Projects\Graf_DFS\Graf_DFS\obj\x86\Debug\Graf_DFS.exe
+c:\users\allabergan\documents\visual studio 2010\Projects\Graf_DFS\Graf_DFS\obj\x86\Debug\Graf_DFS.pdb
