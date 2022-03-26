@@ -1,0 +1,4 @@
+c:\users\allabergan\documents\visual studio 2010\Projects\Lee algoritmi\Lee algoritmi\bin\Debug\Lee algoritmi.exe
+c:\users\allabergan\documents\visual studio 2010\Projects\Lee algoritmi\Lee algoritmi\bin\Debug\Lee algoritmi.pdb
+c:\users\allabergan\documents\visual studio 2010\Projects\Lee algoritmi\Lee algoritmi\obj\x86\Debug\Lee algoritmi.exe
+c:\users\allabergan\documents\visual studio 2010\Projects\Lee algoritmi\Lee algoritmi\obj\x86\Debug\Lee algoritmi.pdb
