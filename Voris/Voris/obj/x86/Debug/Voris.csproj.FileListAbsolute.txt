@@ -1,0 +1,4 @@
+c:\users\allabergan\documents\visual studio 2010\Projects\Voris\Voris\bin\Debug\Voris.exe
+c:\users\allabergan\documents\visual studio 2010\Projects\Voris\Voris\bin\Debug\Voris.pdb
+c:\users\allabergan\documents\visual studio 2010\Projects\Voris\Voris\obj\x86\Debug\Voris.exe
+c:\users\allabergan\documents\visual studio 2010\Projects\Voris\Voris\obj\x86\Debug\Voris.pdb

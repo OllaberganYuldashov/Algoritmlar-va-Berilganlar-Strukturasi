@@ -1,0 +1,4 @@
+c:\users\allabergan\documents\visual studio 2010\Projects\Binary_Search\Binary_Search\bin\Debug\Binary_Search.exe
+c:\users\allabergan\documents\visual studio 2010\Projects\Binary_Search\Binary_Search\bin\Debug\Binary_Search.pdb
+c:\users\allabergan\documents\visual studio 2010\Projects\Binary_Search\Binary_Search\obj\x86\Debug\Binary_Search.exe
+c:\users\allabergan\documents\visual studio 2010\Projects\Binary_Search\Binary_Search\obj\x86\Debug\Binary_Search.pdb
